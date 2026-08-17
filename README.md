@@ -67,11 +67,11 @@ A Next.js app with a Home page and About page displaying a student directory usi
 
 Home page with student cards:
 
-![Home Page](./screenshots/home.png)
+![Home Page](./scratching-next/src/assets/home.png)
 
 About page:
 
-![About Page](./screenshots/about.png)
+![About Page](./scratching-next/src/assets/about.png)
 
 > 📸 Screenshots coming soon
 
