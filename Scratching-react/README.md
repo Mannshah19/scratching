@@ -1,16 +1,60 @@
-# React + Vite
+# Scratching React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Vite + React app built to practice core React concepts. Covers JSX, components, props, state, hooks, and local storage — all displayed on a single page.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Home page with Header and Welcome section:
 
-## React Compiler
+![Header and Welcome](./src/assets/header-welcome.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Rest & Spread Operator examples:
 
-## Expanding the ESLint configuration
+![Operators](./src/assets/operators.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Student Cards using Props:
+
+![Props](./src/assets/props.png)
+
+useState examples with String, Number, Boolean, Array and Object:
+
+![State](./src/assets/state.png)
+
+Student Information Manager with Local Storage:
+
+![Student Manager](./src/assets/student-manager.png)
+
+## Demo Video
+
+[▶ Watch Demo Video](./screenshots/demo.mp4)
+
+## How to run
+
+```bash
+cd Scratching-react
+npm install
+npm run dev
+```
+
+Then open `http://localhost:5173` in your browser.
+
+## What's inside
+
+- `Header.jsx` — top header bar
+- `Footer.jsx` — bottom footer
+- `Welcome.jsx` — student info, image, and current date (Task 2)
+- `Operators.jsx` — Rest & Spread operator examples (Task 3)
+- `StudentCard.jsx` — reusable card component with Props (Task 4)
+- `StateExamples.jsx` — useState with 5 data types (Task 5)
+- `StudentManager.jsx` — add/delete students with useEffect + localStorage (Task 6)
+
+## Topics Covered
+
+- JSX & Rendering Elements
+- Functional Components
+- Nested Elements & Attributes
+- Rest & Spread Operators
+- Props
+- useState
+- useEffect
+- Local Storage
