@@ -18,23 +18,23 @@ A Vite + React app covering JSX, components, props, state, hooks, and local stor
 
 Header and Welcome section:
 
-![Header and Welcome](./screenshots/header-welcome.png)
+![Header and Welcome](./Scratching-react/src/assets/header-welcome.png)
 
 Rest & Spread Operator examples:
 
-![Operators](./screenshots/operators.png)
+![Operators](./Scratching-react/src/assets/operators.png)
 
 Student Cards using Props:
 
-![Props](./screenshots/props.png)
+![Props](./Scratching-react/src/assets/props.png)
 
 useState examples:
 
-![State](./screenshots/state.png)
+![State](./Scratching-react/src/assets/state.png)
 
 Student Information Manager:
 
-![Student Manager](./screenshots/student-manager.png)
+![Student Manager](./Scratching-react/src/assets/student-manager.png)
 
 ### Demo Video
 
@@ -72,6 +72,8 @@ Home page with student cards:
 About page:
 
 ![About Page](./screenshots/about.png)
+
+> 📸 Screenshots coming soon
 
 ### Demo Video
 
