@@ -38,7 +38,7 @@ Student Information Manager:
 
 ### Demo Video
 
-[▶ Watch Demo Video](./screenshots/react-demo.mp4)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1N4b501nPNuax3nIVmxP6QyX5Hg47OzvC/view?usp=sharing)
 
 ### How to run
 
@@ -77,7 +77,7 @@ About page:
 
 ### Demo Video
 
-[▶ Watch Demo Video](./screenshots/next-demo.mp4)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1o0tAZSighqK2qkT-6HVL5cFsTCVTBi8Y/view?usp=sharing)
 
 ### How to run
 
